@@ -11,7 +11,7 @@ using webEval.Models;
 
 namespace webEval.Controllers
 {
-    public class StudentsController : Controller
+    public class StudentController : Controller
     {
         private SchoolContext db = new SchoolContext();
 
